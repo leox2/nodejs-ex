@@ -51,7 +51,7 @@ One option is to use the Vagrant all-in-one launch as described in the [OpenShif
 
 Another option to run virtual machine but not having to using Vagrant is to download and use the `minishift` binary as described in its [getting started](https://github.com/minishift/minishift/#getting-started) section. `minishift` can be used to spin up a VM on any of Windows, Linux or Mac with the help of supported underlying virtualization technologies like KVM, xhyve, Hyper-V, VirtualBox.
 
-#### Starting a Docker container
+##### Starting a Docker container
 
 Another option is running the OpenShift Origin Docker container image from [Docker Hub](https://hub.docker.com/r/openshift/origin/) launch as described in the [Getting Started for Administrators](https://docs.okd.io/latest/getting_started/administrators.html#running-in-a-docker-container). This method is supported on Fedora, CentOS, and Red Hat Enterprise Linux (RHEL) hosts only.
 
